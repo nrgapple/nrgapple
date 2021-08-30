@@ -5,6 +5,8 @@
 
 ## My Projects
 
+<i>Click images to view live site</i>
+
 <table>
 <tr>
 <td>
