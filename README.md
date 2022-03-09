@@ -3,6 +3,8 @@
 <a href="https://www.linkedin.com/in/agthatsme/"><img src="https://img.shields.io/badge/LinkedIn-agthatsme-0077B5?style=flat&logo=linkedin&logoColor=white"></img></a>
 <a href="https://dev.to/nrgapple"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white"></img></a>
 
+I am a Senior Software Engineer at Built Tech Inc. and freelancing developer.
+
 ## My Projects
 
 <i>Click images to view live site</i>
