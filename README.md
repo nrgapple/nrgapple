@@ -87,5 +87,3 @@ Developed a Full-Stack decentralized application which uses a deployed ERC721 sm
 </td>
 </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nrgapple"></img>
